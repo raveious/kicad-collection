@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at -0.125 -10.25 0)
+		(at -11 0 270)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "7bab359d-5e5b-4dff-9db4-e7c8562ce635")
@@ -151,8 +151,8 @@
 		(uuid "d523b867-b930-4152-a585-fb2991113352")
 	)
 	(fp_rect
-		(start -8 -6.493636)
-		(end 13 6.506364)
+		(start -10 -6.558258)
+		(end 13 6.551473)
 		(stroke
 			(width 0.1)
 			(type solid)
